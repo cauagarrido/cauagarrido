@@ -46,14 +46,15 @@ Minha experiência em **Suporte de TI** fortaleceu minha capacidade de diagnosti
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Sobre |
-| --- | --- |
-| **[Meu portfólio](https://github.com/cauagarrido/cauagarrido-portfolio)** · [Ver site ↗](https://cauagarrido.vercel.app) | Meu espaço profissional, com projetos, tecnologias, trajetória e formas de contato. |
-| **[Aja Lawspace](https://github.com/cauagarrido/AjaLawSpace)** · [Ver site ↗](https://ajalawspace.vercel.app) | Site institucional com páginas e componentes responsivos. |
-| **[Hub de Tarefas — API](https://github.com/cauagarrido/HubTarefasBackend)** | API REST para tarefas, com autenticação e integração com banco de dados. |
-| **[BenzCheck PRO — Front-end](https://github.com/cauagarrido/ProjetoBenzFrontend)** | Interface responsiva para consulta e histórico veicular, com fluxo de checkout. |
-| **[DressUp](https://github.com/cauagarrido/DressUp)** · [Ver site ↗](https://dress-up-sandy.vercel.app) | Aplicação para aluguel de roupas, com catálogo, perfis e disponibilidade. |
-| **[Choose a Movie](https://github.com/cauagarrido/choose-a-movie)** · [Ver site ↗](https://choose-a-movie.vercel.app) | Aplicação que ajuda a escolher filmes usando dados da API TMDb. |
+Os projetos abaixo são os mesmos apresentados no [meu portfólio](https://cauagarrido.vercel.app/#projects).
+
+| Projeto | Sobre | Links |
+| --- | --- | --- |
+| **Laís Garrido — Arquitetura** | Landing page e portfólio para um escritório de arquitetura e design de interiores. | [Site](https://laisgarrido.vercel.app) · [GitHub](https://github.com/cauagarrido/laisgarrido-arq) |
+| **Manual do Milheiro Iniciante** | Landing page de produto digital com foco em conversão e experiência mobile-first. | [Site](https://manualdomilheiro.vercel.app) · [GitHub](https://github.com/cauagarrido/ManualDoMilheiro) |
+| **BallOne — Mesas de Sinuca & Lazer** | Catálogo responsivo de mesas, pebolins e acessórios, com contato para orçamentos. | [Site](https://ballone.vercel.app) · [GitHub](https://github.com/cauagarrido/BallOne) |
+| **API para Ecommerce** | API REST para catálogo, pedidos e autenticação, construída com Flask e banco relacional. | [GitHub](https://github.com/cauagarrido/ecommerce-flask) |
+| **Plataforma PetFinder** | Sistema full stack para localização, resgate e adoção responsável de animais. | [GitHub](https://github.com/Dux4/PetFinder) |
 
 ## 📬 Vamos conversar?
 
