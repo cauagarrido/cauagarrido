@@ -16,9 +16,9 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de **Engenharia de Software na Universidade Católica do Salvador** e desenvolvo aplicações web do front-end ao back-end. Gosto de transformar ideias em produtos digitais claros, responsivos e úteis, cuidando tanto da experiência de quem usa quanto da organização do código.
+Sou desenvolvedor de software com experiência prática na criação de aplicações web e mobile, interfaces responsivas e soluções de e-commerce. Trabalho com **Python, JavaScript, React, React Native e Node.js**, além de bancos de dados relacionais, desenvolvendo soluções funcionais, úteis e fáceis de manter.
 
-Tenho estudado e criado projetos com **React, TypeScript, Node.js, Python e SQL**, e estou aberto a oportunidades nas áreas de **desenvolvimento Full Stack e Front-end**.
+Minha experiência em **Suporte de TI** fortaleceu minha capacidade de diagnosticar problemas, atender usuários e automatizar rotinas com Python. Levo essa visão prática para o desenvolvimento: entender as necessidades, simplificar processos e entregar software confiável.
 
 ## 🧰 Tecnologias
 
